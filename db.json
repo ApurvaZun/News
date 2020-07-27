@@ -1,101 +1,116 @@
-{	
-	"applicants": [{
-			"id": 1,
-			"firstName": "Friedrich",
-			"lastName": "Hendrich",
-			"telNo": "+49 146 333 83933",
-			"email": "fhendrich@gmail.com",
-			"status": "appointment_set",
-			"bid": {
-				"amount": "250000",
-				"currency": "$"
-			}
-		},
-		{
-			"id": 2,
-			"firstName": "Mila",
-			"lastName": "Hasting",
-			"telNo": "+49 146 338 83883",
-			"email": "mhasting@gmail.com",
-			"status": "appointment_set",
-			"bid": null
-		},
+{
+    "timestamp": 1595845025,
+    "articleCount": 10,
+    "articles": [
         {
-			"id": 3,
-			"firstName": "Sebastin",
-			"lastName": "Mueller",
-			"telNo": "+49 201 666 83933",
-			"email": "smueller@gmail.com",
-			"status": "appointment_set",
-			"bid": {
-				"amount": "350000",
-				"currency": "$"
-			}
-		},
-        {
-			"id": 4,
-			"firstName": "Bob",
-			"lastName": "Marley",
-			"telNo": "+49 146 333 99999",
-			"email": "bob.marley@gmail.com",
-			"status": "appointment_set",
-			"bid": {
-				"amount": "250000",
-				"currency": "$"
-			}
-		},
-		{
-			"id": 5,
-			"firstName": "Angela",
-			"lastName": "Spark",
-			"telNo": "+49 146 338 98890",
-			"email": "aspark@gmail.com",
-			"status": "viewed",
-			"bid": null
-		},
-        {
-			"id": 6,
-			"firstName": "Angela",
-			"lastName": "Spark",
-			"telNo": "+49 146 338 98890",
-			"email": "aspark@gmail.com",
-			"status": "viewed",
-			"bid": null
-		},
-        {
-			"id": 7,
-			"firstName": "Bruce",
-			"lastName": "Lee",
-			"telNo": "+49 146 338 89675",
-			"email": "bruce.lee@gmail.com",
-			"status": "interested",
-			"bid": {
-                "amount": "105000",
-                "currency": "€"
-                
+            "title": "Portland police detain two suspects after reported shooting near federal courthouse protest site",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIwLzA3LzI2L3BvcnRsYW5kLXByb3Rlc3RzLXBvbGljZS1kZXRhaW4tMi1zdXNwZWN0cy1hZnRlci1zaG9vdGluZy81NTE2MDc1MDAyL9IBJ2h0dHBzOi8vYW1wLnVzYXRvZGF5LmNvbS9hbXAvNTUxNjA3NTAwMg?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-27 06:46:37 UTC",
+            "source": {
+                "name": "USA TODAY",
+                "url": "https://www.usatoday.com"
             }
-		},
+        },
         {
-			"id": 8,
-			"firstName": "Peter",
-			"lastName": "Parker",
-			"telNo": "+49 146 338 12345",
-			"email": "pparker@gmail.com",
-			"status": "interested",
-			"bid": {
-                "amount": "305000",
-                "currency": "€"
-                
+            "title": "U.S. closes consulate in Chengdu, China, after Houston order",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvdS1zLWNsb3Nlcy1jb25zdWxhdGUtY2hlbmdkdS1jaGluYS1hZnRlci1ob3VzdG9uLW9yZGVyLW4xMjM0OTUx0gEsaHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvbmNuYTEyMzQ5NTE?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-27 03:19:00 UTC",
+            "source": {
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com"
             }
-		},
+        },
         {
-			"id": 9,
-			"firstName": "Donald",
-			"lastName": "Duck",
-			"telNo": "+49 146 338 00100",
-			"email": "donald.duck@gmail.com",
-			"status": "offer_accepted",
-			"bid": null
-		}
-	]
+            "title": "Senate GOP, White House poised to unveil their next coronavirus relief plan",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3Mvc2VuYXRlLWdvcC13aGl0ZS1ob3VzZS1wb2lzZWQtdW52ZWlsLWNvcm9uYXZpcnVzLXJlbGllZi9zdG9yeT9pZD03MjAwMDg2NdIBbWh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1BvbGl0aWNzL3NlbmF0ZS1nb3Atd2hpdGUtaG91c2UtcG9pc2VkLXVudmVpbC1jb3JvbmF2aXJ1cy1yZWxpZWYvc3Rvcnk_aWQ9NzIwMDA4NjU?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-27 02:00:48 UTC",
+            "source": {
+                "name": "ABC News",
+                "url": "https://abcnews.go.com"
+            }
+        },
+        {
+            "title": "Biden campaign declines 'Fox News Sunday' interview, 1 week after Chris Wallace's Trump sitdown",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2JpZGVuLWNhbXBhaWduLWRlY2xpbmVzLWZveC1uZXdzLXN1bmRheS1pbnRlcnZpZXctY2hyaXMtd2FsbGFjZdIBZGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3BvbGl0aWNzL2JpZGVuLWNhbXBhaWduLWRlY2xpbmVzLWZveC1uZXdzLXN1bmRheS1pbnRlcnZpZXctY2hyaXMtd2FsbGFjZS5hbXA?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-26 20:13:15 UTC",
+            "source": {
+                "name": "Fox News",
+                "url": "https://www.foxnews.com"
+            }
+        },
+        {
+            "title": "The late John Lewis crosses Selma bridge for a final time in remembrance procession",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjAvMDcvMjYvam9obi1sZXdpcy1zZWxtYS1icmlkZ2UtZmluYWwtcmVtZW1icmFuY2UtcHJvY2Vzc2lvbi0zODE2NjHSAWhodHRwczovL3d3dy5wb2xpdGljby5jb20vYW1wL25ld3MvMjAyMC8wNy8yNi9qb2huLWxld2lzLXNlbG1hLWJyaWRnZS1maW5hbC1yZW1lbWJyYW5jZS1wcm9jZXNzaW9uLTM4MTY2MQ?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-26 21:52:00 UTC",
+            "source": {
+                "name": "POLITICO",
+                "url": "https://www.politico.com"
+            }
+        },
+        {
+            "title": "Spain asks UK to exempt returning British tourists from quarantine",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WHZWRDZEMDVSSlXSAQA?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-26 18:11:37 UTC",
+            "source": {
+                "name": "Al Jazeera English",
+                "url": "https://www.youtube.com"
+            }
+        },
+        {
+            "title": "Hurricane Douglas nears Hawaii as Category 1 storm — latest forecast, path, track, updates",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvaHVycmljYW5lLWRvdWdsYXMtaGF3YWlpLWxhdGVzdC1mb3JlY2FzdC1wYXRoLXRyYWNrLXRvZGF5LTIwMjAtMDctMjYv0gFmaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvaHVycmljYW5lLWRvdWdsYXMtaGF3YWlpLWxhdGVzdC1mb3JlY2FzdC1wYXRoLXRyYWNrLXRvZGF5LTIwMjAtMDctMjYv?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-27 01:15:00 UTC",
+            "source": {
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com"
+            }
+        },
+        {
+            "title": "Moment Trump's 'indestructible' border wall collapses as Tropical Storm Hanna lashes south Texas",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMikAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTg1NjI4NDMvTW9tZW50LVRydW1wcy1pbmRlc3RydWN0aWJsZS1ib3JkZXItd2FsbC1jb2xsYXBzZXMtVHJvcGljYWwtU3Rvcm0tSGFubmEtbGFzaGVzLXNvdXRoLVRleGFzLmh0bWzSAZQBaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS04NTYyODQzL2FtcC9Nb21lbnQtVHJ1bXBzLWluZGVzdHJ1Y3RpYmxlLWJvcmRlci13YWxsLWNvbGxhcHNlcy1Ucm9waWNhbC1TdG9ybS1IYW5uYS1sYXNoZXMtc291dGgtVGV4YXMuaHRtbA?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-27 02:05:15 UTC",
+            "source": {
+                "name": "Daily Mail",
+                "url": "https://www.dailymail.co.uk"
+            }
+        },
+        {
+            "title": "Trump aides float piecemeal approach to coronavirus relief in Congress",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMimgFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9hcnRpY2xlL3VzLWhlYWx0aC1jb3JvbmF2aXJ1cy11c2EtY29uZ3Jlc3MvdHJ1bXAtdGVhbS1zZW5hdGUtcmVwdWJsaWNhbnMtYWdyZWUtb24tY29yb25hdmlydXMtYWlkLW9mZmVyLXRvLWRlbW9jcmF0cy1pZFVTS0NOMjRSMEdY0gE0aHR0cHM6Ly9tb2JpbGUucmV1dGVycy5jb20vYXJ0aWNsZS9hbXAvaWRVU0tDTjI0UjBHWA?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-26 14:51:00 UTC",
+            "source": {
+                "name": "Reuters",
+                "url": "https://www.reuters.com"
+            }
+        },
+        {
+            "title": "Two Gunmen Released After Austin BLM Protester Is Shot Dead",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tL3R3by1ndW5tZW4tcmVsZWFzZWQtYWZ0ZXItYXVzdGluLWJsbS1wcm90ZXN0ZXItZ2FycmV0dC1mb3N0ZXItaXMtc2hvdC1kZWFk0gEA?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-27 02:07:00 UTC",
+            "source": {
+                "name": "The Daily Beast",
+                "url": "https://www.thedailybeast.com"
+            }
+        }
+    ]
 }
