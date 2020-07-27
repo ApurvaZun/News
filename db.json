@@ -1,0 +1,116 @@
+{
+    "timestamp": 1595842343,
+    "articleCount": 10,
+    "articles": [
+        {
+            "title": "Senate GOP, White House poised to unveil their next coronavirus relief plan",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3Mvc2VuYXRlLWdvcC13aGl0ZS1ob3VzZS1wb2lzZWQtdW52ZWlsLWNvcm9uYXZpcnVzLXJlbGllZi9zdG9yeT9pZD03MjAwMDg2NdIBbWh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1BvbGl0aWNzL3NlbmF0ZS1nb3Atd2hpdGUtaG91c2UtcG9pc2VkLXVudmVpbC1jb3JvbmF2aXJ1cy1yZWxpZWYvc3Rvcnk_aWQ9NzIwMDA4NjU?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-27 02:00:48 UTC",
+            "source": {
+                "name": "ABC News",
+                "url": "https://abcnews.go.com"
+            }
+        },
+        {
+            "title": "Gunfire reported near Portland protest site before another chaotic night",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL2d1bmZpcmUtcmVwb3J0ZWQtbmVhci1wb3J0bGFuZC1wcm90ZXN0LXNpdGUtMi1hcnJlc3RlZC0xLWluanVyZWTSAV9odHRwczovL3d3dy5mb3huZXdzLmNvbS91cy9ndW5maXJlLXJlcG9ydGVkLW5lYXItcG9ydGxhbmQtcHJvdGVzdC1zaXRlLTItYXJyZXN0ZWQtMS1pbmp1cmVkLmFtcA?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-27 05:27:40 UTC",
+            "source": {
+                "name": "Fox News",
+                "url": "https://www.foxnews.com"
+            }
+        },
+        {
+            "title": "U.S. closes consulate in Chengdu, China, after Houston order",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvdS1zLWNsb3Nlcy1jb25zdWxhdGUtY2hlbmdkdS1jaGluYS1hZnRlci1ob3VzdG9uLW9yZGVyLW4xMjM0OTUx0gEsaHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvbmNuYTEyMzQ5NTE?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-27 03:19:00 UTC",
+            "source": {
+                "name": "NBC News",
+                "url": "https://www.nbcnews.com"
+            }
+        },
+        {
+            "title": "100 days out, Donald Trump is in dire straits",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiTmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMC8wNy8yNi9wb2xpdGljcy91cy1lbGVjdGlvbi0yMDIwLXdlZWstYWhlYWQvaW5kZXguaHRtbNIBUmh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjAvMDcvMjYvcG9saXRpY3MvdXMtZWxlY3Rpb24tMjAyMC13ZWVrLWFoZWFkL2luZGV4Lmh0bWw?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-26 21:54:00 UTC",
+            "source": {
+                "name": "CNN",
+                "url": "https://www.cnn.com"
+            }
+        },
+        {
+            "title": "The late John Lewis crosses Selma bridge for a final time in remembrance procession",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjAvMDcvMjYvam9obi1sZXdpcy1zZWxtYS1icmlkZ2UtZmluYWwtcmVtZW1icmFuY2UtcHJvY2Vzc2lvbi0zODE2NjHSAWhodHRwczovL3d3dy5wb2xpdGljby5jb20vYW1wL25ld3MvMjAyMC8wNy8yNi9qb2huLWxld2lzLXNlbG1hLWJyaWRnZS1maW5hbC1yZW1lbWJyYW5jZS1wcm9jZXNzaW9uLTM4MTY2MQ?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-26 21:52:00 UTC",
+            "source": {
+                "name": "POLITICO",
+                "url": "https://www.politico.com"
+            }
+        },
+        {
+            "title": "As public schools go all virtual in fall, parents eye private schools that say they will open their campuses",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMi1QFodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vbG9jYWwvZWR1Y2F0aW9uL2FzLXB1YmxpYy1zY2hvb2xzLWdvLWFsbC12aXJ0dWFsLWluLWZhbGwtcGFyZW50cy1leWUtcHJpdmF0ZS1zY2hvb2xzLXRoYXQtc2F5LXRoZXktd2lsbC1vcGVuLXRoZWlyLWNhbXB1c2VzLzIwMjAvMDcvMjYvMWU0NDZhYjAtY2M1Yi0xMWVhLWIwZTMtZDU1YmRhMDdkNjZhX3N0b3J5Lmh0bWzSAeQBaHR0cHM6Ly93d3cud2FzaGluZ3RvbnBvc3QuY29tL2xvY2FsL2VkdWNhdGlvbi9hcy1wdWJsaWMtc2Nob29scy1nby1hbGwtdmlydHVhbC1pbi1mYWxsLXBhcmVudHMtZXllLXByaXZhdGUtc2Nob29scy10aGF0LXNheS10aGV5LXdpbGwtb3Blbi10aGVpci1jYW1wdXNlcy8yMDIwLzA3LzI2LzFlNDQ2YWIwLWNjNWItMTFlYS1iMGUzLWQ1NWJkYTA3ZDY2YV9zdG9yeS5odG1sP291dHB1dFR5cGU9YW1w?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-26 22:05:00 UTC",
+            "source": {
+                "name": "The Washington Post",
+                "url": "https://www.washingtonpost.com"
+            }
+        },
+        {
+            "title": "Hurricane Douglas nears Hawaii as Category 1 storm — latest forecast, path, track, updates",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvaHVycmljYW5lLWRvdWdsYXMtaGF3YWlpLWxhdGVzdC1mb3JlY2FzdC1wYXRoLXRyYWNrLXRvZGF5LTIwMjAtMDctMjYv0gFmaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvaHVycmljYW5lLWRvdWdsYXMtaGF3YWlpLWxhdGVzdC1mb3JlY2FzdC1wYXRoLXRyYWNrLXRvZGF5LTIwMjAtMDctMjYv?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-27 01:15:00 UTC",
+            "source": {
+                "name": "CBS News",
+                "url": "https://www.cbsnews.com"
+            }
+        },
+        {
+            "title": "Moment Trump's 'indestructible' border wall collapses as Tropical Storm Hanna lashes south Texas",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMikAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvbmV3cy9hcnRpY2xlLTg1NjI4NDMvTW9tZW50LVRydW1wcy1pbmRlc3RydWN0aWJsZS1ib3JkZXItd2FsbC1jb2xsYXBzZXMtVHJvcGljYWwtU3Rvcm0tSGFubmEtbGFzaGVzLXNvdXRoLVRleGFzLmh0bWzSAZQBaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS04NTYyODQzL2FtcC9Nb21lbnQtVHJ1bXBzLWluZGVzdHJ1Y3RpYmxlLWJvcmRlci13YWxsLWNvbGxhcHNlcy1Ucm9waWNhbC1TdG9ybS1IYW5uYS1sYXNoZXMtc291dGgtVGV4YXMuaHRtbA?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-27 02:05:15 UTC",
+            "source": {
+                "name": "Daily Mail",
+                "url": "https://www.dailymail.co.uk"
+            }
+        },
+        {
+            "title": "Trump aides float piecemeal approach to coronavirus relief in Congress",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMimgFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9hcnRpY2xlL3VzLWhlYWx0aC1jb3JvbmF2aXJ1cy11c2EtY29uZ3Jlc3MvdHJ1bXAtdGVhbS1zZW5hdGUtcmVwdWJsaWNhbnMtYWdyZWUtb24tY29yb25hdmlydXMtYWlkLW9mZmVyLXRvLWRlbW9jcmF0cy1pZFVTS0NOMjRSMEdY0gE0aHR0cHM6Ly9tb2JpbGUucmV1dGVycy5jb20vYXJ0aWNsZS9hbXAvaWRVU0tDTjI0UjBHWA?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-26 14:51:00 UTC",
+            "source": {
+                "name": "Reuters",
+                "url": "https://www.reuters.com"
+            }
+        },
+        {
+            "title": "Ted Cruz, Conservatives Blast John Roberts for Siding With Liberal Justices on Nevada Church Decision",
+            "description": "",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS90ZWQtY3J1ei1jb25zZXJ2YXRpdmVzLWJsYXN0LWpvaG4tcm9iZXJ0cy1zaWRpbmctbGliZXJhbC1qdXN0aWNlcy1uZXZhZGEtY2h1cmNoLWRlY2lzaW9uLTE1MjA1MTPSAX9odHRwczovL3d3dy5uZXdzd2Vlay5jb20vdGVkLWNydXotY29uc2VydmF0aXZlcy1ibGFzdC1qb2huLXJvYmVydHMtc2lkaW5nLWxpYmVyYWwtanVzdGljZXMtbmV2YWRhLWNodXJjaC1kZWNpc2lvbi0xNTIwNTEzP2FtcD0x?oc=5",
+            "image": null,
+            "publishedAt": "2020-07-25 19:58:38 UTC",
+            "source": {
+                "name": "Newsweek",
+                "url": "https://www.newsweek.com"
+            }
+        }
+    ]
+}
